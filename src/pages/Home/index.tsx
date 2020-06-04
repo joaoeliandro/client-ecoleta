@@ -20,7 +20,7 @@ const Home = () => {
                     eficiente.
                     </p>
 
-                    <Link to="/create-point">
+                    <Link to="/create-point" style={{ outline: 0 }}>
                         <span>
                             <FiLogIn />
                         </span>
